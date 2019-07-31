@@ -1,0 +1,10 @@
+Bonus
+1. Crée un visage comme l'example. Utilise uniquement du HTML et du CSS. Pense à utiliser les propriétés relative et absolue...
+
+
+
+2. Crée un menu à plusieurs niveau totalement responsive et uniquement en javascript "pur". Utilise la police d'icone font awesome pour rendre ton menu plus agréable.
+
+Les sous menu sont à ouvrir au clique sur une icone spécifique.
+
+3. Crée une interface ERP complète avec les exercices présents en CSS et en vueJS

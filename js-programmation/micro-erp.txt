@@ -1,0 +1,12 @@
+http://api.sirius-school.be/product-v2/
+
+Utilise l'api suivante pour 
+https://reqres.in/
+
+Pour créer un nouveau compte,
+te connecter
+et lister les différents utilisateurs
+
+
+Utilise l'api Dummy REST
+Pour créer http://dummy.restapiexample.com/
